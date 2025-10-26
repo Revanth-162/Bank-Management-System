@@ -1,4 +1,4 @@
-# Bank Managment System in Java
+# Bank Management System in Java
 ![Java](https://img.shields.io/badge/Language-Java-red.svg) 
 ![Status](https://img.shields.io/badge/Status-Complete-orange.svg)
 ![Version](https://img.shields.io/badge/Version-2.0-blue.svg)
